@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![Mrugank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrugank-Upadhyay&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=tokyonight)
--->
+![Mrugank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrugank-Upadhyay&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=tokyonight)
+
