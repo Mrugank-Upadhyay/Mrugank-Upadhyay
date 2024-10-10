@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 <!-- ![Mrugank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrugank-Upadhyay&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=tokyonight)
 -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mrugank-Upadhyay&theme=tokyonight)](https://git.io/streak-stats)
